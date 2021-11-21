@@ -1,1 +1,5 @@
+.generated_files/*
+*.mk
 nbproject/private/*
+nbproject/Makefile-genesis.properties
+nbproject/project.properties
